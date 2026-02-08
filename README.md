@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Computer Engineering graduate with 3+ years of hands-on experience in IT systems engineering, full-stack development, and database architecture. Passionate about building efficient systems, solving complex problems, and understanding technology from hardware foundations to cloud infrastructure.
 
-**Career Focus:** Building expertise in systems engineering to progress toward cloud infrastructure, DevOps, and DevSecOps roles.
+**Career Focus:** Building expertise in systems engineering to progress toward cloud infrastructure roles.
 
 ## 💻 Technical Stack
 
