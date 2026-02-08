@@ -82,14 +82,3 @@ Expanding expertise in:
 
 ---
 
-💡 *"Understanding systems from the silicon to the cloud - because great engineers know how things work at every layer."*
-```
-
-**Added section:**
-```
-**Databases & Data:**
-- MongoDB, PostgreSQL, MySQL
-- Database Design & Schema Architecture
-- Database Administration & Optimization
-- Query Optimization & Performance Tuning
-- Data Management & Migration
