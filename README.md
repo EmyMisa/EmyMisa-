@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 Computer Engineering graduate with 3+ years of hands-on experience across **Technical Support**, **Full-Stack Development**, **Database Administration**, and **Quality Assurance**.
+
 I build reliable systems, solve complex problems, and ensure software quality from the ground up, driven by my passion for efficient systems, solving intricate problems, and understanding technology from its hardware, software, and security foundations.
 
 **Career Focus:** Leveraging my evolving experiences  to create reliable, secure systems that tackle complex challenges.
